@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+#학교 속 병원 프로젝트에 오신 걸 환영합니다.
+## Welcome to SchoolDoctor Page
 
 You can use the [editor on GitHub](https://github.com/JINNNNS/SchoolDoctor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
